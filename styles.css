@@ -90,6 +90,7 @@ a.butn:hover, a.butn:active, a.butn:focus {
     padding: 20px 20px 20px 20px;
     color: #fdfefe;
   }  
+  
 
 @media screen and (max-width: 991px) {
   .butn {
